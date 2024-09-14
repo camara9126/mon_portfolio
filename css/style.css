@@ -147,6 +147,31 @@ body:after {
 .text-black-opacity-05 {
   color: rgba(0, 0, 0, 0.5); }
 
+.profil{
+  width: 250px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.profil img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.projet{
+  width: 250px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.projet img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .hover-bg-enlarge {
   overflow: hidden;
   position: relative; }
