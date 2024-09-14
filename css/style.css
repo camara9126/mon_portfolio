@@ -148,8 +148,8 @@ body:after {
   color: rgba(0, 0, 0, 0.5); }
 
 .profil{
-  width: 250px;
-  height: 200px;
+  width: 80%;
+  height: 50%;
   overflow: hidden;
 }
 
@@ -161,8 +161,8 @@ body:after {
 }
 
 .projet{
-  width: 250px;
-  height: 200px;
+  width: 80%;
+  height: 50%;
   overflow: hidden;
 }
 
